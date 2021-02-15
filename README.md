@@ -22,6 +22,7 @@ Download and extract zip file in releases
 node index.js
 
 ## Video
+Click on the thumbnail below to be taken to the video :D
 [![TOUR](https://img.youtube.com/vi/pO9jw7Mp9Qg/0.jpg)](https://www.youtube.com/watch?v=pO9jw7Mp9Qg)
 
 ## License
