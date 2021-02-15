@@ -5,7 +5,7 @@
 Readme Generator
 
 ## Description
-This is a readme generator for your projects
+This is a readme generator, fun fact: this readme was generated with it!
 
 ## Table of contents
 1. [Installation](#installation)
@@ -16,7 +16,7 @@ This is a readme generator for your projects
 6. [Questions](#questions)
 
 ## Installation
-Download and extract zip from releases
+download and extract zip file in releases
 
 ## Usage
 node index.js
@@ -25,7 +25,7 @@ node index.js
 MIT
 
 ## Contributing
-They wont
+They wont lol
 
 ## Tests
 None
