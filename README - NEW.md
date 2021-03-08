@@ -2,10 +2,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Title
-Readme Generator
+Team Profile Generator
 
 ## Description
-This is a readme generator, fun fact: this readme was generated with it!
+A simple team profile generator made with node and javascript
 
 ## Table of contents
 1. [Installation](#installation)
@@ -16,7 +16,7 @@ This is a readme generator, fun fact: this readme was generated with it!
 6. [Questions](#questions)
 
 ## Installation
-download and extract zip file in releases
+download and extract, then, npm i in the directory downloaded to
 
 ## Usage
 node index.js
@@ -25,10 +25,10 @@ node index.js
 MIT
 
 ## Contributing
-They wont lol
+They won't
 
 ## Tests
-None
+There were 4 test suites that all passed
 
 ## Questions
-If you have any questions, please forward them to Connor-Walden at connormwalden@gmail.com
+If you have any questions, please forward them to Connor-Walden at connormwalden
